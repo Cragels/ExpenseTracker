@@ -8,7 +8,7 @@ plugins {
 android {
     namespace = "com.example.expensetracker"
     compileSdk {
-        version = release(36) {
+        version = release(37) {
             minorApiLevel = 1
         }
     }
